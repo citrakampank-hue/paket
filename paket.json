@@ -43,6 +43,14 @@
             "voucher": "4365",
             "price": "Rp 10.500",
             "stok": "Tersedia"
-        }
+        },
+                "7721": {
+            "name": "Im3 Freedom Internet 100GB, 28 Hari",
+            "operator": "186",
+            "voucher": "7721",
+            "price": "Rp 115.808",
+            "stok": "Tersedia",
+            "description": "Freedom Internet 100GB/28hr\nDengan detail :\nKuota utama 100GB\nBonus kuota nelpon 5.000 menit ke sesama\nMasa berlaku 28 hari\nKuota nelpon bersifat bonus sehingga ada kemungkinan beberapa nomer tidak mendapatkan benefit bonusnya"
+            }
     }
 }
