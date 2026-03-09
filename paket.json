@@ -1,0 +1,48 @@
+{
+    "paket_kuota": {
+        "7476": {
+            "name": "Cek Kuota XL",
+            "operator": "546",
+            "voucher": "7476",
+            "price": "Rp 0",
+            "stok": "Tersedia",
+            "description": "Cek Kuota XL"
+                 },
+        "7475": {
+            "name": "Cek Kuota Axis",
+            "operator": "546",
+            "voucher": "7475",
+            "price": "Rp 0",
+            "stok": "Tersedia",
+            "description": "Cek Kuota Axis"
+        },
+        "7508": {
+            "name": "Mastif XL, 30 Hari",
+            "operator": "550",
+            "voucher": "7508",
+            "price": "Rp 5.000",
+            "stok": "Tersedia"
+        },
+        "609": {
+            "name": "Mastif Three, 4 Bulan",
+            "operator": "48",
+            "voucher": "609",
+            "price": "Rp 5.000",
+            "stok": "Tersedia"
+        },
+        "4368": {
+            "name": "XL Xtra Kuota Edukasi 15GB, 7Hr",
+            "operator": "224",
+            "voucher": "4368",
+            "price": "Rp 8.000",
+            "stok": "Tersedia"
+        },
+        "4365": {
+            "name": "XL Xtra Kuota Confrence 15GB, 7Hr",
+            "operator": "224",
+            "voucher": "4365",
+            "price": "Rp 10.500",
+            "stok": "Tersedia"
+        }
+    }
+}
